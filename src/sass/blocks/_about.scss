@@ -1,4 +1,5 @@
 .about {
+    background: url('../img/bgw.png') no-repeat 50%/cover;
     padding-top: 120px;
     &__photo {
         width: 400px;
@@ -39,7 +40,7 @@
     }
     &__text {
         margin-top: 25px;
-        font-size: 14px;
+        font-size: 18px;
         line-height: 21px;
     }
     &__skills {
@@ -64,7 +65,7 @@
             }
         }
         &-text {
-            font-size: 12px;
+            font-size: 15px;
             line-height: 18px;
             margin-top: 6px;
         }

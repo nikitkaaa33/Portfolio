@@ -1,5 +1,6 @@
 .resume {
     padding-top: 120px;
+    background: url('../img/bgw.png') no-repeat 50%/cover;
     &__title {
         position: relative;
         text-align: center;
@@ -71,7 +72,7 @@
         &-body {
             padding-left: 43px;
             margin-top: 12px;
-            font-size: 12px;
+            font-size: 16px;
             line-height: 18px;
         }
         &-icon {
